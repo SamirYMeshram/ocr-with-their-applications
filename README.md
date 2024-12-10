@@ -111,7 +111,8 @@ Follow these steps to set up and run the application:
 
 ## 📸 Screenshots
 
-_(Add screenshots of the application here, if available.)_
+
+![Screenshot 2024-12-10 131842](https://github.com/user-attachments/assets/fa71b006-f1a8-4709-ba50-f55bff858638)
 
 ---
 
