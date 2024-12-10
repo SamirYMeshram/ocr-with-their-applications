@@ -167,7 +167,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🧑‍💻 Author
 
-Created by [Your Name]. For support, suggestions, or bug reports, feel free to reach out or open an issue.
+Created by [Samir meshram]. For support, suggestions, or bug reports, feel free to reach out or open an issue.
 
 Happy coding! 🎉
 
