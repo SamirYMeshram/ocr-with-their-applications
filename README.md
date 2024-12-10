@@ -76,8 +76,8 @@ Follow these steps to set up and run the application:
 1. **Clone the Repository**:
    Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
-   cd <repository-name>
+   git clone https://github.com/SamirYMeshram/ocr-with-their-applications.git
+   cd ocr-with-their-applications
    ```
 
 2. **Add the Required Scripts**:
@@ -170,7 +170,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Created by [Samir meshram]. For support, suggestions, or bug reports, feel free to reach out or open an issue.
 
 Happy coding! 🎉
-
----
-
-Replace `<meshramsam6>` and `<repository-name>` with the relevant details for your GitHub repository. Add screenshots if possible to make the README visually appealing. Let me know if you’d like to tweak this further!
