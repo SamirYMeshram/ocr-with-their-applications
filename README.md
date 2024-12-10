@@ -57,7 +57,7 @@ pip install tk
 Here’s the structure of the project files:
 ```
 Ultimate-Feature-Launcher/
-├── main.py               # Main application script
+├── interface.py               # Main application script
 ├── Gemini_OCR_SDK.py     # Script for Enhanced OCR (ensure this file exists)
 ├── simpleocr.py          # Script for Simple OCR
 ├── de.py                 # Script for PDF to Audiobook
