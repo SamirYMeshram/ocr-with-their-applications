@@ -173,4 +173,4 @@ Happy coding! 🎉
 
 ---
 
-Replace `<your-username>` and `<repository-name>` with the relevant details for your GitHub repository. Add screenshots if possible to make the README visually appealing. Let me know if you’d like to tweak this further!
+Replace `<meshramsam6>` and `<repository-name>` with the relevant details for your GitHub repository. Add screenshots if possible to make the README visually appealing. Let me know if you’d like to tweak this further!
